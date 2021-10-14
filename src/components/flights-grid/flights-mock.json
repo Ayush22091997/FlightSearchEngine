@@ -1,0 +1,300 @@
+{
+  "onwards": {
+    "nonStopFlights": [
+      {
+        "arrivalTime": "4:30 PM",
+        "date": "2021-10-16",
+        "departureTime": "2:30 PM",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AS-132",
+        "name": "Air Asia",
+        "origin": "Mumbai (BOM)",
+        "price": 8059,
+        "arrivalTimeStamp": 1604314800000,
+        "departureTimeStamp": 1604307600000
+      },
+      {
+        "arrivalTime": "9:50 AM",
+        "date": "2021-10-16",
+        "departureTime": "7:20 AM",
+        "destination": "Pune (PNQ)",
+        "flightNo": "AI-120",
+        "name": "Air India",
+        "origin": "Mumbai (BOM)",
+        "price": 7086,
+        "arrivalTimeStamp": 1604290800000,
+        "departureTimeStamp": 1604281800000
+      },
+      {
+        "arrivalTime": "12:10 PM",
+        "date": "2021-10-16",
+        "departureTime": "11:00 AM",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-135",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 5233,
+        "arrivalTimeStamp": 1604335200000,
+        "departureTimeStamp": 1604327400000
+      },
+      {
+        "arrivalTime": "5:30 PM",
+        "date": "2021-10-16",
+        "departureTime": "3:30 PM",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-132",
+        "name": "Air India",
+        "origin": "Mumbai (BOM)",
+        "price": 4086,
+        "arrivalTimeStamp": 1604335200000,
+        "departureTimeStamp": 1604327400000
+      },
+      {
+        "arrivalTime": "9:50 PM",
+        "date": "2021-10-16",
+        "departureTime": "7:20 PM",
+        "destination": "Pune (PNQ)",
+        "flightNo": "AI-100",
+        "name": "Air India",
+        "origin": "Mumbai (BOM)",
+        "price": 5635,
+        "arrivalTimeStamp": 1604314800000,
+        "departureTimeStamp": 1604307600000
+      },
+      {
+        "arrivalTime": "10:10 PM",
+        "date": "2021-10-16",
+        "departureTime": "8:00 PM",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-135",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 5233,
+        "arrivalTimeStamp": 1604290800000,
+        "departureTimeStamp": 1604281800000
+      },
+      {
+        "arrivalTime": "4:30 PM",
+        "date": "2021-10-17",
+        "departureTime": "2:30 PM",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AS-132",
+        "name": "Air Asia",
+        "origin": "Mumbai (BOM)",
+        "price": 8059,
+        "arrivalTimeStamp": 1604314800000,
+        "departureTimeStamp": 1604307600000
+      },
+      {
+        "arrivalTime": "9:50 AM",
+        "date": "2021-10-17",
+        "departureTime": "7:20 AM",
+        "destination": "Pune (PNQ)",
+        "flightNo": "AI-120",
+        "name": "Air India",
+        "origin": "Mumbai (BOM)",
+        "price": 7086,
+        "arrivalTimeStamp": 1604290800000,
+        "departureTimeStamp": 1604281800000
+      },
+      {
+        "arrivalTime": "12:10 PM",
+        "date": "2021-10-17",
+        "departureTime": "11:00 AM",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-135",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 5233,
+        "arrivalTimeStamp": 1604335200000,
+        "departureTimeStamp": 1604327400000
+      },
+      {
+        "arrivalTime": "5:30 PM",
+        "date": "2021-10-17",
+        "departureTime": "3:30 PM",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-132",
+        "name": "Air India",
+        "origin": "Mumbai (BOM)",
+        "price": 4086,
+        "arrivalTimeStamp": 1604335200000,
+        "departureTimeStamp": 1604327400000
+      },
+      {
+        "arrivalTime": "9:50 PM",
+        "date": "2021-10-17",
+        "departureTime": "7:20 PM",
+        "destination": "Pune (PNQ)",
+        "flightNo": "AI-100",
+        "name": "Air India",
+        "origin": "Mumbai (BOM)",
+        "price": 5635,
+        "arrivalTimeStamp": 1604314800000,
+        "departureTimeStamp": 1604307600000
+      },
+      {
+        "arrivalTime": "10:10 PM",
+        "date": "2021-10-17",
+        "departureTime": "8:00 PM",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-135",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 5233,
+        "arrivalTimeStamp": 1604290800000,
+        "departureTimeStamp": 1604281800000
+      }
+    ],
+    "multiStopFlights": []
+  },
+  "return": {
+    "nonStopFlights": [
+      {
+        "arrivalTime": "2:30 AM",
+        "date": "2021-10-17",
+        "departureTime": "1:30 AM",
+        "destination": "Mumbai (BOM)",
+        "flightNo": "IND-140",
+        "name": "INDIGO",
+        "origin": "Delhi (DEL)",
+        "price": 2789,
+        "arrivalTimeStamp": 1604314800000,
+        "departureTimeStamp": 1604307600000
+      },
+      {
+        "arrivalTime": "9:50 AM",
+        "date": "2021-10-17",
+        "departureTime": "7:20 AM",
+        "destination": "Mumbai (BOM)",
+        "flightNo": "AI-120",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 6788,
+        "arrivalTimeStamp": 1604290800000,
+        "departureTimeStamp": 1604281800000
+      },
+      {
+        "arrivalTime": "10:50 PM",
+        "date": "2021-10-17",
+        "departureTime": "10:00 PM",
+        "destination": "Pune (PNQ)",
+        "flightNo": "AI-135",
+        "name": "Air India",
+        "origin": "Delhi (DEL)",
+        "price": 4899,
+        "arrivalTimeStamp": 1604335200000,
+        "departureTimeStamp": 1604327400000
+      },
+      {
+        "arrivalTime": "2:30 PM",
+        "date": "2021-10-17",
+        "departureTime": "12:30 PM",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-182",
+        "name": "Air India",
+        "origin": "Mumbai (BOM)",
+        "price": 3599,
+        "arrivalTimeStamp": 1604335200000,
+        "departureTimeStamp": 1604327400000
+      },
+      {
+        "arrivalTime": "6:50 AM",
+        "date": "2021-10-17",
+        "departureTime": "5:20 AM",
+        "destination": "Mumbai (BOM)",
+        "flightNo": "AI-190",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 5635,
+        "arrivalTimeStamp": 1604290800000,
+        "departureTimeStamp": 1604281800000
+      },
+      {
+        "arrivalTime": "1:10 PM",
+        "date": "2021-10-17",
+        "departureTime": "10:45 AM",
+        "destination": "Pune (PNQ)",
+        "flightNo": "AI-165",
+        "name": "Air India",
+        "origin": "Delhi (DEL)",
+        "price": 7566,
+        "arrivalTimeStamp": 1604290800000,
+        "departureTimeStamp": 1604281800000
+      },
+      {
+        "arrivalTime": "2:30 AM",
+        "date": "2021-10-18",
+        "departureTime": "1:30 AM",
+        "destination": "Mumbai (BOM)",
+        "flightNo": "IND-140",
+        "name": "INDIGO",
+        "origin": "Delhi (DEL)",
+        "price": 2789,
+        "arrivalTimeStamp": 1604314800000,
+        "departureTimeStamp": 1604307600000
+      },
+      {
+        "arrivalTime": "9:50 AM",
+        "date": "2021-10-18",
+        "departureTime": "7:20 AM",
+        "destination": "Mumbai (BOM)",
+        "flightNo": "AI-120",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 6788,
+        "arrivalTimeStamp": 1604290800000,
+        "departureTimeStamp": 1604281800000
+      },
+      {
+        "arrivalTime": "10:50 PM",
+        "date": "2021-10-18",
+        "departureTime": "10:00 PM",
+        "destination": "Pune (PNQ)",
+        "flightNo": "AI-135",
+        "name": "Air India",
+        "origin": "Delhi (DEL)",
+        "price": 4899,
+        "arrivalTimeStamp": 1604335200000,
+        "departureTimeStamp": 1604327400000
+      },
+      {
+        "arrivalTime": "2:30 PM",
+        "date": "2021-10-18",
+        "departureTime": "12:30 PM",
+        "destination": "Delhi (DEL)",
+        "flightNo": "AI-182",
+        "name": "Air India",
+        "origin": "Mumbai (BOM)",
+        "price": 3599,
+        "arrivalTimeStamp": 1604335200000,
+        "departureTimeStamp": 1604327400000
+      },
+      {
+        "arrivalTime": "6:50 AM",
+        "date": "2021-10-18",
+        "departureTime": "5:20 AM",
+        "destination": "Mumbai (BOM)",
+        "flightNo": "AI-190",
+        "name": "Air India",
+        "origin": "Pune (PNQ)",
+        "price": 5635,
+        "arrivalTimeStamp": 1604290800000,
+        "departureTimeStamp": 1604281800000
+      },
+      {
+        "arrivalTime": "1:10 PM",
+        "date": "2021-10-18",
+        "departureTime": "10:45 AM",
+        "destination": "Pune (PNQ)",
+        "flightNo": "AI-165",
+        "name": "Air India",
+        "origin": "Delhi (DEL)",
+        "price": 7566,
+        "arrivalTimeStamp": 1604290800000,
+        "departureTimeStamp": 1604281800000
+      }
+    ],
+    "multiStopFlights": []
+  }
+}

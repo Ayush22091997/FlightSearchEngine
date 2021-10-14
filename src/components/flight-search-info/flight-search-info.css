@@ -1,0 +1,16 @@
+.flight-search-info {
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.flight-info{
+  display: flex;
+  flex-direction: column;
+}
+.flight-time{
+  display: flex;
+  flex-direction: column;
+}
+.flight-search-info h3 {
+  font-size: 1.5rem;
+}

@@ -1,0 +1,88 @@
+.Flight-info {
+  display: flex;
+  display: -webkit-box; 
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 90px;
+}
+.left-container{
+  display: flex;
+    flex-direction: column;
+    padding: 6px 20px;
+    border: 1px dashed mediumblue;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.time{
+  font-size: 16px;
+    font-style: oblique;
+}
+.right-container{
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  justify-content: space-between;
+}
+.flight-details{
+  display: flex;
+  flex-direction: row;
+}
+.flight{
+  display: flex;
+  flex-direction: column;
+}
+.gray-background {
+  background-color: lightgray;
+}
+.flight-name{
+  font-weight: bold;
+    color: blueviolet;
+    line-height: 40px;
+}
+.price-header{
+  font-size: 18px;
+    font-family: sans-serif;
+}
+.flight-no{
+  font-size: 12px;
+    font-family: emoji;
+}
+.flight-journey{
+  font-size: 18px;
+    font-weight: 800;
+    color: blue;
+}
+@media screen and (max-width: 980px) {
+  .left-container{
+    display: flex;
+      flex-direction: column;
+      padding: 6px 20px;
+      border: 1px dashed mediumblue;
+      border-radius: 20px;
+      width: 100%;
+      margin-bottom: 10px;
+  }
+  .right-container{
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .Flight-info {
+    display: flex;
+    display: -webkit-box; 
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 10px;
+  }
+}
